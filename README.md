@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhiiishek07" target="blank"><img src="https://img.shields.io/twitter/follow/abhiiishek07?logo=twitter&style=for-the-badge" alt="abhiiishek07" /></a> </p>
 
-- 🔭 I’m currently working on **180DSA**
+- 🔭 I’m currently working on **180DSA.COM**
 
 - 🌱 I’m currently learning **Next JS, Node JS**
 
