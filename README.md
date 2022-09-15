@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **180DSA.COM**
 
-- 🌱 I’m currently learning **Next JS, Node JS**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **React JS**
 
