@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhiiishek07" target="blank"><img src="https://img.shields.io/twitter/follow/abhiiishek07?logo=twitter&style=for-the-badge" alt="abhiiishek07" /></a> </p>
 
-- 🔭 I’m currently working on **180DSA.COM**
+- 🔭 I’m currently working on **Devs For Dev**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently exploring **GoLang**
 
 - 💬 Ask me about **React JS**
 
